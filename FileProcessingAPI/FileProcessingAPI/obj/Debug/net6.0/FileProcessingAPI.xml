@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FileProcessingAPI</name>
+    </assembly>
+    <members>
+        <member name="M:FileProcessingAPI.Controllers.GetMonthlyPaymentsController.GetMonthlyPayments(Months,System.Int32)">
+            <param name="month">The number you select represents the month of the year</param>
+        </member>
+    </members>
+</doc>
